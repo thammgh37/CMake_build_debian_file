@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: MATH built using CMake
+Maintainer: KK
+Package: math
+Priority: optional
+Section: devel
+Version: 1.0.0
+Installed-Size: 70
+

@@ -1,0 +1,3 @@
+/usr/local/bin/main
+/usr/lib/libmy_math.so
+/usr/lib/libmy_print.so

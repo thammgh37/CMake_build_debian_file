@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libmy_print.so -o libmy_print.so CMakeFiles/my_print.dir/src/print_result.cpp.o 
